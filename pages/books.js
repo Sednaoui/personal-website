@@ -43,6 +43,9 @@ export default function Projects() {
                     <li>
                         <a href="https://en.wikipedia.org/wiki/Crime_and_Punishment">Crime and Punishment</a>
                     </li>
+                    <li>
+                        <a href="https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality">On the Genealogy of Morality</a>
+                    </li>
                 </ul>
             </div>
         </Layout >
