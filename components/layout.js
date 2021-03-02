@@ -21,6 +21,11 @@ export default function Layout({ children, home }) {
                         Home{' '}
                     </a>
                 </Link>
+                <Link href="/about">
+                    <a>
+                        About{' '}
+                    </a>
+                </Link>
                 <Link href="/projects">
                     <a>
                         Projects{' '}
