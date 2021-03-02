@@ -18,7 +18,7 @@ export default function Projects() {
                     I founded Edasty with a vision to engage young people to develop their thinking, their voices, and their identities, especially to those who are not able to access a quality education.
                 </p>
                 <p>
-                    What made the school attractive to high school students from around the world are its playful learning methods and its peer interactions. Students were matched together based on interests in small groups of 4 in discord channels. Lessons consisted of topics chosen based on students’ passions. I worked with 2 teachers, and we on-boarded a total of 75 students over the course of 8 months.
+                    What made the school attractive to high school students from around the world are its <b>playful learning methods</b> and its peer interactions. Students were matched together based on interests in small groups of 4 in discord channels. Lessons consisted of topics chosen based on students’ passions. I worked with 2 teachers, and we on-boarded a total of 75 students over the course of 8 months.
                 </p>
                 <p>
                     A lot of the vision of school is inspired on the work of <a href="http://lifelongkindergarten.net/" target="_blank" rel="noopener noreferrer">Lifelong Kindergarten</a> at MIT media lab.
