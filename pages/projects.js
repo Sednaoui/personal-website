@@ -51,7 +51,7 @@ export default function Projects() {
                     </a>
                 </h2>
                 <p>
-                    I built the powertrain for the 2018 <a href="https://sites.google.com/iit.edu/iit-motorsports/the-car?authuser=0">IIT electric car</a> of 2018 with my classmates and peers
+                    I built the powertrain of <a href="https://sites.google.com/iit.edu/iit-motorsports/the-car?authuser=0">IIT electric car</a> of 2018 with my classmates and peers
                 </p>
             </div>
             <div>
