@@ -1,6 +1,8 @@
 import Head from 'next/head'
 import Layout from '../components/layout'
 
+import styles from '../styles/utils.module.css'
+
 export default function About() {
     return (
         <Layout>
@@ -8,6 +10,12 @@ export default function About() {
                 <title>About</title>
             </Head>
             <h1>About</h1>
+            <img
+                src="/images/profile_picture_cropped.jpg"
+                width={160}
+                height={160}
+                className={styles.borderCircle}
+            />
             <p>
                 My name is Marc Sednaoui. I grew up in Alexandria, Egypt and I currently live in Paris. I previously studied mechanical engineering at IIT in Chicago. Now, I am a software engineer, writing code for Willo.
             </p>
