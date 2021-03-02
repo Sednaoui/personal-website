@@ -19,7 +19,7 @@ export default function Home() {
       </header>
       <section className={utilStyles.headingMd}>
         <p>
-          Email: marcsednaoui [at] gmail [dot] com
+          Email: sed [at] protonmail [dot] com
         </p>
         <p>
           <a href="https://github.com/Sednaoui">sednaoui</a> on Github <a href="https://twitter.com/@marcsednaoui">@marcsednaoui</a> on Twitter
