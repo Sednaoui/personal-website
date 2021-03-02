@@ -14,37 +14,37 @@ export default function Projects() {
                 </h3>
                 <ul>
                     <li>
-                        <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150">Leonardo da Vinci</a>
+                        <a href="https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150" target="_blank" rel="noopener noreferrer">Leonardo da Vinci</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/Zero_to_One">Zero to One</a>
+                        <a href="https://en.wikipedia.org/wiki/Zero_to_One" target="_blank" rel="noopener noreferrer">Zero to One</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/The_Gene%3A_An_Intimate_History">The Gene: An Intimate History</a>
+                        <a href="https://en.wikipedia.org/wiki/The_Gene%3A_An_Intimate_History" target="_blank" rel="noopener noreferrer">The Gene: An Intimate History</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow">Thinking Fast and Slow</a>
+                        <a href="https://en.wikipedia.org/wiki/Thinking%2C_Fast_and_Slow" target="_blank" rel="noopener noreferrer">Thinking Fast and Slow</a>
                     </li>
                     <li>
-                        <a href="https://mitpress.mit.edu/books/deep-learning-revolution">The Deep Learning Revolution</a>
+                        <a href="https://mitpress.mit.edu/books/deep-learning-revolution" target="_blank" rel="noopener noreferrer">The Deep Learning Revolution</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/The_Origin_of_the_Family,_Private_Property_and_the_State">The Origin of the Family, Private Property and the State</a>
+                        <a href="https://en.wikipedia.org/wiki/The_Origin_of_the_Family,_Private_Property_and_the_State" target="_blank" rel="noopener noreferrer">The Origin of the Family, Private Property and the State</a>
                     </li>
                     <li>
-                        <a href="https://www.goodreads.com/book/show/15793107-paris-reborn">Paris Reborn</a>
+                        <a href="https://www.goodreads.com/book/show/15793107-paris-reborn" target="_blank" rel="noopener noreferrer">Paris Reborn</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/Children_of_Gebelawi">Children of Gebelawi (أولاد حارتنا)</a>
+                        <a href="https://en.wikipedia.org/wiki/Children_of_Gebelawi" target="_blank" rel="noopener noreferrer">Children of Gebelawi (أولاد حارتنا)</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/Great_Expectations">Great Expectation </a>
+                        <a href="https://en.wikipedia.org/wiki/Great_Expectations" target="_blank" rel="noopener noreferrer">Great Expectation </a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/Crime_and_Punishment">Crime and Punishment</a>
+                        <a href="https://en.wikipedia.org/wiki/Crime_and_Punishment" target="_blank" rel="noopener noreferrer">Crime and Punishment</a>
                     </li>
                     <li>
-                        <a href="https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality">On the Genealogy of Morality</a>
+                        <a href="https://en.wikipedia.org/wiki/On_the_Genealogy_of_Morality" target="_blank" rel="noopener noreferrer">On the Genealogy of Morality</a>
                     </li>
                 </ul>
             </div>

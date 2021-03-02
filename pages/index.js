@@ -22,7 +22,7 @@ export default function Home() {
           Email: sed [at] protonmail [dot] com
         </p>
         <p>
-          <a href="https://github.com/Sednaoui">sednaoui</a> on Github <a href="https://twitter.com/@marcsednaoui">@marcsednaoui</a> on Twitter
+          <a href="https://github.com/Sednaoui" target="_blank" rel="noopener noreferrer">sednaoui</a> on Github <a href="https://twitter.com/@marcsednaoui" target="_blank" rel="noopener noreferrer">@marcsednaoui</a> on Twitter
         </p>
       </section>
     </Layout >

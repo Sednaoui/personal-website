@@ -9,7 +9,7 @@ export default function Work() {
             </Head>
             <h1>Work</h1>
             <h2>
-                <a href='https://willo.com'>
+                <a href='https://willo.com' target="_blank" rel="noopener noreferrer">
                     Willo
                 </a>
             </h2>

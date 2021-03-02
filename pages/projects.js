@@ -10,7 +10,7 @@ export default function Projects() {
             <h1>Projects that I am proud of</h1>
             <div>
                 <h2>
-                    <a href='https://edasty.com'>
+                    <a href='https://edasty.com' target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
                         Edasty
                     </a>
                 </h2>
@@ -21,12 +21,12 @@ export default function Projects() {
                     What made the school attractive to high school students from around the world are its playful learning methods and its peer interactions. Students were matched together based on interests in small groups of 4 in discord channels. Lessons consisted of topics chosen based on students’ passions. I worked with 2 teachers, and we on-boarded a total of 75 students over the course of 8 months.
                 </p>
                 <p>
-                    A lot of the vision of school is inspired on the work of <a href="http://lifelongkindergarten.net/">Lifelong Kindergarten</a> at MIT media lab.
+                    A lot of the vision of school is inspired on the work of <a href="http://lifelongkindergarten.net/" target="_blank" rel="noopener noreferrer">Lifelong Kindergarten</a> at MIT media lab.
                 </p>
             </div>
             <div>
                 <h2>
-                    <a href='https://web.iit.edu/career-services/career-coaches/peer-coaches'>
+                    <a href='https://web.iit.edu/career-services/career-coaches/peer-coaches' target="_blank" rel="noopener noreferrer">
                         Peer Career Coach Program
                     </a>
                 </h2>
@@ -36,7 +36,7 @@ export default function Projects() {
             </div>
             <div>
                 <h2>
-                    <a href='https://docs.google.com/document/d/19WLGVSS63kAXlUhbEiMcXVvHJtvtnU8Ks4aQWI7gL4E/edit?usp=sharing'>
+                    <a href='https://docs.google.com/document/d/19WLGVSS63kAXlUhbEiMcXVvHJtvtnU8Ks4aQWI7gL4E/edit?usp=sharing' target="_blank" rel="noopener noreferrer">
                         Storing Energy in Sand
                     </a>
                 </h2>
@@ -46,17 +46,17 @@ export default function Projects() {
             </div>
             <div>
                 <h2>
-                    <a href="https://sites.google.com/iit.edu/iit-motorsports/home">
+                    <a href="https://sites.google.com/iit.edu/iit-motorsports/home" target="_blank" rel="noopener noreferrer">
                         Electric Racing Car
                     </a>
                 </h2>
                 <p>
-                    I built the powertrain of <a href="https://sites.google.com/iit.edu/iit-motorsports/the-car?authuser=0">IIT electric car</a> of 2018 with my classmates and peers
+                    I built the powertrain of <a href="https://sites.google.com/iit.edu/iit-motorsports/the-car?authuser=0" target="_blank" rel="noopener noreferrer">IIT electric car</a> of 2018 with my classmates and peers
                 </p>
             </div>
             <div>
                 <h2>
-                    <a href="https://drive.google.com/file/d/0Bx3ODdepwB-wQnVnRVFpTWx4dVE/view?usp=sharing">
+                    <a href="https://drive.google.com/file/d/0Bx3ODdepwB-wQnVnRVFpTWx4dVE/view?usp=sharing" target="_blank" rel="noopener noreferrer">
                         Active Cooling Battery
                     </a>
                 </h2>
