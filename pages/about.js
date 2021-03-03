@@ -11,7 +11,7 @@ export default function About() {
             </Head>
             <h1>About</h1>
             <img
-                src="/images/profile_picture_cropped.jpg"
+                src="./images/profile_picture_cropped.jpg"
                 width={160}
                 height={160}
                 className={styles.borderCircle}

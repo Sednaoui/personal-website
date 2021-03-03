@@ -1,8 +1,34 @@
+import React, { useMemo } from 'react'
 import Head from 'next/head'
 import styles from './layout.module.css'
 import Link from 'next/link'
+import { resolve } from 'url'
 
 export const siteTitle = 'Marc Sednaoui';
+
+const BaseLink = ({ href, as, ...rest }) => {
+
+    const newAs = useMemo(() => {
+        let baseURI_as = as || href
+
+        // make absolute url relative
+        // when displayed in url bar
+        if (baseURI_as.startsWith('/')) {
+            //  for static html compilation
+            baseURI_as = '.' + href
+            // <IPFSLink href="/about"> => <a class="jsx-2055897931" href="./about">About</a>
+
+            // on the client
+            if (typeof document !== 'undefined') {
+                baseURI_as = resolve(document.baseURI, baseURI_as).href
+                // => <a href="https://gateway.ipfs.io/ipfs/Qm<hash>/about">About</a>
+            }
+        }
+        return baseURI_as
+    }, [as, href])
+
+    return <Link {...rest} href={href} as={newAs} />
+}
 
 export default function Layout({ children, home }) {
     return (
@@ -16,31 +42,31 @@ export default function Layout({ children, home }) {
                 <meta name="twitter:card" content="summary_large_image" />
             </Head>
             <div className={styles.backToHome}>
-                <Link href="/">
+                <BaseLink href="/">
                     <a>
                         Home{' '}
                     </a>
-                </Link>
-                <Link href="/about">
+                </BaseLink>
+                <BaseLink href="/about">
                     <a>
                         About{' '}
                     </a>
-                </Link>
-                <Link href="/projects">
+                </BaseLink>
+                <BaseLink href="/projects">
                     <a>
                         Projects{' '}
                     </a>
-                </Link>
-                <Link href="/work">
+                </BaseLink>
+                <BaseLink href="/work">
                     <a>
                         Work{' '}
                     </a>
-                </Link>
-                <Link href="/books">
+                </BaseLink>
+                <BaseLink href="/books">
                     <a>
                         Books{' '}
                     </a>
-                </Link>
+                </BaseLink>
             </div>
             <main>{children}</main>
         </div>
