@@ -26,7 +26,7 @@ export default function About() {
                 </BaseLink> 
             </p>
             <p>
-                I ask questions about how humans learn from their environment, question the role of our current education system in the shaping of our method of thinking, how science and technology are progressing and how communities are formed.
+                I ask questions about how humans learn from their environment, how science and technology are progressing and how communities are formed.
             </p>
             <p>
                 The problem I think about the most is how to <b>unlock hidden human potential</b>. Talent is everywhere, opportunity is not. I want to provide the exposure needed for adolescents to find their “spark”. While nature (genes) is a factor in forming our character, our genes and our environment interact. We are ever evolving creatures, even during our lifetime. I want to take a bet on the unknowns, the ones that our society failed. I want to find the ones that are curious enough to develop their passions, but not fortunate enough with the resources. I want to find the lost minds.
