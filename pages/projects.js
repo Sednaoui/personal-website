@@ -61,7 +61,7 @@ export default function Projects() {
                     </a>
                 </h2>
                 <p>
-                    I created a solution for the super-charging problem in electric vehicles that allows the temperature to be low enough to prevent damage to the battery.
+                    We created a solution for the super-charging problem in electric vehicles that allows the temperature to be low enough to prevent damage to the battery.
                 </p>
             </div>
         </Layout >
