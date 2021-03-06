@@ -11,7 +11,7 @@ export default function Projects() {
             <div>
                 <h2>
                     <a href='https://edasty.com' target="_blank" rel="noopener noreferrer" target="_blank" rel="noopener noreferrer">
-                        Edasty
+                        Edasty - Online School
                     </a>
                 </h2>
                 <p>
