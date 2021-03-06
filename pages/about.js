@@ -2,6 +2,7 @@ import Head from 'next/head'
 import Layout from '../components/layout'
 
 import styles from '../styles/utils.module.css'
+import { BaseLink } from '../components/layout'
 
 export default function About() {
     return (
@@ -17,7 +18,12 @@ export default function About() {
                 className={styles.borderCircle}
             />
             <p>
-                My name is Marc Sednaoui. I grew up in Alexandria, Egypt and I currently live in Paris. I previously studied mechanical engineering at IIT in Chicago. Now, I am a software engineer, writing code for Willo.
+                My name is Marc Sednaoui. I grew up in Alexandria, Egypt and I currently live in Paris. I previously studied mechanical engineering at IIT in Chicago. Now, I am a software engineer, building internal tools for{' '}
+                <BaseLink href="/work">
+                    <a>
+                      Willo{' '}
+                    </a>
+                </BaseLink> 
             </p>
             <p>
                 I ask questions about how humans learn from their environment, question the role of our current education system in the shaping of our method of thinking, how science and technology are progressing and how communities are formed.

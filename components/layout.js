@@ -6,7 +6,7 @@ import { resolve } from 'url'
 
 export const siteTitle = 'Marc Sednaoui';
 
-const BaseLink = ({ href, as, ...rest }) => {
+export const BaseLink = ({ href, as, ...rest }) => {
 
     const newAs = useMemo(() => {
         let baseURI_as = as || href
