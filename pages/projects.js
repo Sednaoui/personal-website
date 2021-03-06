@@ -5,7 +5,7 @@ export default function Projects() {
     return (
         <Layout>
             <Head>
-                <title>Projcts</title>
+                <title>Projects</title>
             </Head>
             <h1>Projects that I am proud of</h1>
             <div>
