@@ -43,27 +43,27 @@ export default function Layout({ children, home }) {
             </Head>
             <div className={styles.backToHome}>
                 <BaseLink href="/">
-                    <a>
+                    <a className={styles.backToHomeItem}>
                         Home{' '}
                     </a>
                 </BaseLink>
                 <BaseLink href="/about">
-                    <a>
+                    <a className={styles.backToHomeItem}>
                         About{' '}
                     </a>
                 </BaseLink>
                 <BaseLink href="/projects">
-                    <a>
+                    <a className={styles.backToHomeItem}>
                         Projects{' '}
                     </a>
                 </BaseLink>
                 <BaseLink href="/work">
-                    <a>
+                    <a className={styles.backToHomeItem}>
                         Work{' '}
                     </a>
                 </BaseLink>
                 <BaseLink href="/books">
-                    <a>
+                    <a className={styles.backToHomeItem}>
                         Books{' '}
                     </a>
                 </BaseLink>
