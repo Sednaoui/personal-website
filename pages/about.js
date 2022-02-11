@@ -18,12 +18,7 @@ export default function About() {
                 className={styles.borderCircle}
             />
             <p>
-                My name is Marc Sednaoui. I grew up in Alexandria, Egypt, and I currently live in Paris. I studied mechanical engineering at Illinois Tech in Chicago. Now, I am a software engineer, building internal tools for{' '}
-                <BaseLink href="/work">
-                    <a>
-                      Willo{' '}
-                    </a>
-                </BaseLink> 
+                My name is Marc Sednaoui. I grew up in Alexandria, Egypt, and I currently live in Paris. I studied engineering at Illinois Tech in Chicago. Now, I am looking to build on top of cryptocurrencies.   
             </p>
             <p>
                 I ask questions about how humans learn from their environment, how science and technology are progressing and how communities are formed.
